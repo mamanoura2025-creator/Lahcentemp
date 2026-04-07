@@ -6,7 +6,7 @@ import requests
 from flask import Flask, request
 
 # ضع التوكنات مباشرة هنا
-PAGE_ACCESS_TOKEN = "PUT_YOUR_PAGE_ACCESS_TOKEN_HERE"
+PAGE_ACCESS_TOKEN = "EAAOKznKIRsABRMoPU5oqHORgZCtLcnQM2AW5I6EYXWXGCvWjparjsluhkCDEDXmrE7qSqj7F9Y7C9kxykrGBSUWfG0imjHz5x5E3CKKJhGqgUVXZAbC1FtLS6l1E0N6rt99fguqndcrwT8hLehtkXh0X6Umz2aZAkHcBY3A8o65OYI21cf4DWRzZCZBNcoBCXDRDx40tZBnAZDZD"
 VERIFY_TOKEN = "ikram_bot"
 
 # صورة البوت
