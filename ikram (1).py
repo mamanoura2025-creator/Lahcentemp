@@ -7,14 +7,14 @@ from flask import Flask, request
 
 # ضع التوكنات مباشرة هنا
 PAGE_ACCESS_TOKEN = "PUT_YOUR_PAGE_ACCESS_TOKEN_HERE"
-VERIFY_TOKEN = "miloud_bot_verify"
+VERIFY_TOKEN = "ikram_bot"
 
 # صورة البوت
 WELCOME_PHOTO = "https://i.postimg.cc/Y99hJmjX/file-00000000ef0871f7a407fbe643baee0d.png"
 
 # معلومات المطور
-DEVELOPER_NAME = "Miloud Dev"
-DEV_FACEBOOK = "https://www.facebook.com/No.Luck.No.Life"
+DEVELOPER_NAME = "Lahcen Dev"
+DEV_FACEBOOK = "https://www.facebook.com/profile.php?id=61579515429304"
 
 app = Flask(__name__)
 
